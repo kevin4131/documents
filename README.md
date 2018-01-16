@@ -1,2 +1,2 @@
 # documents
-the documents of study
+**Learning documents**

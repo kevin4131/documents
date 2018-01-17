@@ -1,2 +1,3 @@
+[TOC]
 # documents
 **Learning documents**

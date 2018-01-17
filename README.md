@@ -1,3 +1,2 @@
 # documents
-[toc]
 **Learning documents**
